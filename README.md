@@ -2,7 +2,7 @@
 
 โครงการเตรียมรุ่นภาษาไทยอิสระของ [DesignCraft โดย storytold / ArtCraft](https://github.com/storytold/designcraft) ในชุด [วันละ Craft / One Per Craft](https://github.com/tapanapon-com/one-per-craft) เอนจินและคุณสมบัติหลักเป็นผลงานของผู้พัฒนาต้นฉบับ
 
-[ดาวน์โหลดต้นฉบับ v0.18.0](https://github.com/storytold/designcraft/releases/tag/v0.18.0) · [คู่มือ Mac](docs/install-macos.md) · [คู่มือ Windows](docs/install-windows.md) · [Version Log](CHANGELOG.md) · [English](#english)
+[ดาวน์โหลดต้นฉบับ v0.18.0](https://github.com/storytold/designcraft/releases/tag/v0.18.0) · [คู่มือ Mac](docs/install-macos.md) · [คู่มือ Windows](docs/install-windows.md) · [Version Log](docs/version-log.md) · [English](#english)
 
 ## สถานะรุ่นไทย
 
@@ -13,7 +13,7 @@
 | Release ต้นฉบับที่ตรวจ | [v0.18.0](https://github.com/storytold/designcraft/releases/tag/v0.18.0) |
 | แพ็กเกจภาษาไทยของ Tapanapon | ยังไม่เผยแพร่ |
 | เนื้อหา repo นี้ | เอกสารและข้อมูลอ้างอิงต้นทาง |
-| ตรวจข้อมูลล่าสุด | 07/11/2026 10:59 ICT |
+| ตรวจ Release ล่าสุด | 07/11/2026 22:57 ICT |
 
 ลิงก์ดาวน์โหลดด้านบนเป็นไฟล์ต้นฉบับของ storytold / ArtCraft ไม่ใช่ตัวติดตั้ง TH และอาจมีภาษาที่รองรับต่างกันตามรุ่น อ่าน [ข้อมูลต้นทาง](UPSTREAM.md) และ [สถานะคำแปล](docs/localization-th.md)
 
@@ -58,7 +58,7 @@
 - แก้การคัดลอกกรอบที่มีกรอบข้อความยึดอยู่ให้คงเนื้อหาข้อความไว้ — [ต้นทาง](https://github.com/storytold/designcraft/pull/2348)
 - ปรับตารางเครดิตใน About ให้พอดีหน้าต่างและปรับขนาดคอลัมน์ได้ — [ต้นทาง](https://github.com/storytold/designcraft/pull/2264)
 
-อ่าน [CHANGELOG](CHANGELOG.md) และ [Version Log บนเว็บไซต์](https://tapanapon.com/one-per-craft/versions#designcraft) การเปลี่ยนแปลงข้างต้นยังไม่ได้ถูกอ้างว่าเข้าแพ็กเกจ TH แล้ว
+อ่าน [CHANGELOG](CHANGELOG.md) และ [Version Log ต้นฉบับ](docs/version-log.md) การเปลี่ยนแปลงข้างต้นยังไม่ได้ถูกอ้างว่าเข้าแพ็กเกจ TH แล้ว
 
 ## ขอบเขตคำแปลและการตรวจสอบ
 
