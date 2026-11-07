@@ -79,7 +79,7 @@ DesignCraft TH is an independent Thai-edition preparation project for [DesignCra
 
 ### Features and workflow
 
-จัดหน้า วางกรอบภาพและข้อความ และเตรียมงานสิ่งพิมพ์. See the upstream README for supported workflows and limitations. Source capabilities are not a claim of completed Thai localization.
+Lay out pages with text and image frames, apply styles and prepare supported publishing output. See the upstream README for supported workflows and limitations. Source capabilities are not a claim of completed Thai localization.
 
 ### Downloads and installation
 
