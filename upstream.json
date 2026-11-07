@@ -31,7 +31,25 @@
         "text": "ปรับตารางเครดิตใน About ให้พอดีหน้าต่างและปรับขนาดคอลัมน์ได้",
         "source": "https://github.com/storytold/designcraft/pull/2264"
       }
+    ],
+    "releaseCheckedAt": "2026-11-07T15:57:45.414988+00:00",
+    "releaseHistory": [
+      {
+        "tag": "v0.18.0",
+        "publishedAt": "2026-11-06T20:21:31Z",
+        "url": "https://github.com/storytold/designcraft/releases/tag/v0.18.0"
+      },
+      {
+        "tag": "v0.17.2",
+        "publishedAt": "2026-11-05T01:47:37Z",
+        "url": "https://github.com/storytold/designcraft/releases/tag/v0.17.2"
+      },
+      {
+        "tag": "v0.17.1",
+        "publishedAt": "2026-11-04T20:37:45Z",
+        "url": "https://github.com/storytold/designcraft/releases/tag/v0.17.1"
+      }
     ]
   },
-  "versionLog": "https://tapanapon.com/one-per-craft/versions#designcraft"
+  "versionLog": "https://github.com/tapanapon-com/designcraft-th/blob/main/docs/version-log.md"
 }
