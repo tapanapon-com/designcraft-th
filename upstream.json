@@ -1,0 +1,37 @@
+{
+  "id": "designcraft",
+  "name": "DesignCraft",
+  "repository": "https://github.com/tapanapon-com/designcraft-th",
+  "status": "documentation-only",
+  "containsApplicationSource": false,
+  "thaiVersion": null,
+  "thaiArticle": null,
+  "upstream": {
+    "repository": "https://github.com/storytold/designcraft",
+    "releaseTag": "v0.18.0",
+    "releaseUrl": "https://github.com/storytold/designcraft/releases/tag/v0.18.0",
+    "publishedAt": "2026-11-06T20:21:31Z",
+    "checkedAt": "2026-11-07T03:59:09.433727+00:00",
+    "sourceCommit": "e977f825583f85f6a34cebdc45adad100c7f9e68",
+    "sourceVersion": "0.17.0",
+    "macDownload": "https://github.com/storytold/designcraft/releases/download/v0.18.0/designcraft-0.18.0-macos-universal.dmg",
+    "windowsDownload": "https://github.com/storytold/designcraft/releases/download/v0.18.0/designcraft-0.18.0-windows-x64.msi",
+    "portableDownload": "https://github.com/storytold/designcraft/releases/download/v0.18.0/designcraft-0.18.0-windows-x64-portable.zip",
+    "checksums": "https://github.com/storytold/designcraft/releases/download/v0.18.0/SHA256SUMS.txt",
+    "changes": [
+      {
+        "text": "เพิ่มงาน parent pages และ alternate layouts พร้อมส่งออกหรือพิมพ์แต่ละ layout/version",
+        "source": "https://github.com/storytold/designcraft/pull/1342"
+      },
+      {
+        "text": "แก้การคัดลอกกรอบที่มีกรอบข้อความยึดอยู่ให้คงเนื้อหาข้อความไว้",
+        "source": "https://github.com/storytold/designcraft/pull/2348"
+      },
+      {
+        "text": "ปรับตารางเครดิตใน About ให้พอดีหน้าต่างและปรับขนาดคอลัมน์ได้",
+        "source": "https://github.com/storytold/designcraft/pull/2264"
+      }
+    ]
+  },
+  "versionLog": "https://tapanapon.com/one-per-craft/versions#designcraft"
+}
